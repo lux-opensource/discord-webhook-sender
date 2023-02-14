@@ -1,0 +1,68 @@
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\Discord Webhook Sender.exe.config
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\Discord Webhook Sender.exe
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\Discord Webhook Sender.pdb
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\Siticone.UI.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\CSharpDiscordWebhook.NET.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Text.Json.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Text.Encodings.Web.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.ValueTuple.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Numerics.Vectors.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Threading.Tasks.Extensions.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Buffers.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\Newtonsoft.Json.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Data.Common.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Diagnostics.StackTrace.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Diagnostics.Tracing.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Globalization.Extensions.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.IO.Compression.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Net.Http.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Net.Sockets.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Runtime.Serialization.Primitives.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Security.Cryptography.Algorithms.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Security.SecureString.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Threading.Overlapped.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Release\System.Xml.XPath.XDocument.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord Webhook Sender.csproj.AssemblyReference.cache
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord Webhook Sender.csproj.SuggestedBindingRedirects.cache
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord_Webhook_Sender.UI_EXT.delete_webhook.resources
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord_Webhook_Sender.UI_EXT.information.resources
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord_Webhook_Sender.UI_EXT.set_webhook.resources
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord_Webhook_Sender.UI_EXT.single_message.resources
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord_Webhook_Sender.UI.resources
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord_Webhook_Sender.Properties.Resources.resources
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord Webhook Sender.csproj.GenerateResource.cache
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord Webhook Sender.csproj.CoreCompileInputs.cache
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord Webhook Sender.exe.config
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\Discord Webhook Sender.exe.config
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\Discord Webhook Sender.exe
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\Discord Webhook Sender.pdb
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Data.Common.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Diagnostics.Tracing.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Globalization.Extensions.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.IO.Compression.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Net.Http.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Net.Sockets.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Security.SecureString.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Threading.Overlapped.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\discord-webhook-client.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\Newtonsoft.Json.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\notifique-me.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\Polly.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\Siticone.UI.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Net.Http.Formatting.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.ValueTuple.dll
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\Newtonsoft.Json.xml
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\Polly.pdb
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\Polly.xml
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.Net.Http.Formatting.xml
+F:\[Development]\Github Proj\Discord Webhook Sender\bin\Debug\System.ValueTuple.xml
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord Webhook Sender.csproj.CopyComplete
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord Webhook Sender.exe
+F:\[Development]\Github Proj\Discord Webhook Sender\obj\Release\Discord Webhook Sender.pdb
